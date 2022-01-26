@@ -266,5 +266,127 @@
 .F_s {
     font-size: 25px;
 }
-
-
+.INTEGRATIONS {
+    margin-top: 160px;
+    display: flex;
+    justify-content: space-between;
+}
+.INTEGRATIONS1 {
+    width: 678px;
+    height: 418px;
+    margin-left: 148px;
+}
+.start3 {
+    width: 208px;
+    height: 54px;
+    background: #F9C600;
+    box-sizing: border-box;
+    padding-top: 20px;
+    text-align: center;
+}
+.CASE_STUDY {
+    width: 1376px;
+    height: 584px;
+    margin: 240px 32px 46px 32px;
+    display: flex;
+    justify-content: space-between;
+    background: #f1ece6
+}
+.CASE_STUDY1 {
+    width: 562px;
+}
+.CASE_STUDY1 {
+    width: 329px;
+    height: 424px;
+    margin: 80px 117px;
+}
+.start4 {
+    border: 1px solid #0B2330;
+    box-sizing: border-box;
+    border-radius: 4px;
+    width: 140px;
+    height: 54px;
+    text-align: center;
+    padding-top: 16px;
+}
+.Daniel_Layfield {
+    width: 794px;
+    background: #f8c501;
+}
+.Daniel_Layfield1 {
+    width: 562px;
+    height: 400px;
+    position: absolute;
+    margin-top: -100px;
+    margin-left: 116px;
+}
+.Daniel_Layfield2 {
+    font-size: 39px;
+}
+.Daniel_Layfield3 {
+    display: flex;
+    margin-top: 46px;
+}
+.Daniel_Layfield4 {
+    margin-top: 24px;
+}
+.black {
+    background: #0b2330;
+    height: 421px;
+    box-sizing: border-box;
+    color: white;
+    text-align: center;
+    padding: 53px;
+    border-bottom: 2px solid #f8c501;
+}
+.black1 {
+    font-size: 40px;
+}
+.black2 {
+    width: 642px;
+    font-size: 20px;
+    margin: 35px 343px;
+}
+.black3 {
+    width: 163px;
+    height: 54px;
+    background: #F9C600;
+    box-sizing: border-box;
+}
+.black_and {
+    background: #0b2330;
+    height: 675px;
+    box-sizing: border-box;
+    color: white;
+    padding: 80px 32px;
+    display: flex;
+}
+.black_and1 {
+    display: flex;
+}
+.black_and3 {
+    margin-right: 110px;
+}
+.black_and4 {
+    align-items: center;
+    width: 196px;
+    height: 290px;
+    margin: 0px 40px;
+}
+.black_and5 {
+    color: #F9C600;
+}
+.pad18 {
+    padding-top: 18px;
+}
+.bord {
+    border: 1px solid #fc9e28;
+}
+.black_and2 {
+    width: 1022px;
+    height: 28px;
+    margin: -100px 268px;
+    display: flex;
+    color: white;
+    justify-content: space-between;
+}
