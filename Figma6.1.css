@@ -11,14 +11,6 @@
     align-items: center;
     justify-content: space-between;
 }
-.menu_log {
-    width: 104px;
-    height: 52px;
-    box-sizing: border-box;
-    left: 2.22%;
-    right: 90.56%;
-    top: calc(50% - 52px/2 + 0.5px);
-}
 .menu_menu {
     margin-left: 100px;
     width: 618px;
